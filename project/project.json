@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Pterodactyl Panel",
+        "tech": "Hosting",
+        "image": "./assets/img/project/pterodactyl.png",
+        "desc":"Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go.",
+        "links": {
+            "demo": "https://store.yogzzdevx.my.id",
+            "code": "https://chat.whatsapp.com/LYC14O9y4PoF3ondOF7aoU"
+        }
+    },
+    {
+        "title": "VPS Digital Ocean",
+        "tech": "Virtual Private Server",
+        "image": "./assets/img/project/vps.png",
+        "desc":"VPS or virtual private server is a virtual machine that provides virtualized server resources on a physical server that is shared with other users. ",
+        "links": {
+            "demo": "https://store.yogzzdevx.my.id",
+            "code": "https://chat.whatsapp.com/LYC14O9y4PoF3ondOF7aoU"
+        }
+    },{
+        "title": "Sewa Bot & Jadi Bot",
+        "tech": "Whatsapp Bot",
+        "image": "./assets/img/project/bot.png",
+        "desc":"Bingung nulis apa.",
+        "links": {
+            "demo": "https://store.yogzzdevx.my.id",
+            "code": "https://chat.whatsapp.com/LYC14O9y4PoF3ondOF7aoU"
+        }
+    },{
+        "title": "Domain Tld",
+        "tech": "Rawr",
+        "image": "./assets/img/project/domain.png",
+        "desc": "Pikiren dewe.",
+        "links": {
+            "demo": "https://store.yogzzdevx.my.id",
+            "code": "https://chat.whatsapp.com/LYC14O9y4PoF3ondOF7aoU"
+        }
+    },{
+        "title": "Jasa Install",
+        "tech": "Pterodactyl Panel, Thema Pterodactyl",
+        "image": "./assets/img/project/jasa.png",
+        "desc": "Rahull.",
+        "links": {
+            "demo": "https://store.yogzzdevx.my.id",
+            "code": "https://chat.whatsapp.com/LYC14O9y4PoF3ondOF7aoU"
+        }
+    }
+]

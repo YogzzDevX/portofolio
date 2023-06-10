@@ -1,0 +1,43 @@
+[
+    {
+        "name": "One Piece",
+        "by": "Eiichiro Oda",
+        "image": "./certification/onepiece.png",
+        "category":"Favorite Anime",
+        "links": {
+            "credentials": "https://bili.im/gCNK9uP"
+        }
+    }, {
+        "name": "Naruto Shippuden",
+        "by": "Masashi Kishimoto",
+        "image": "./certification/naruto.png",
+        "category":"Favorite Anime",
+        "links": {
+            "credentials": "https://bili.im/7R9Fuab"
+        }
+    }, {
+        "name": "Tensei Shirata Slime Datta Ken",
+        "by": "Fuse",
+        "image": "./certification/rimuru.png",
+        "category":"Favorite Anime",
+        "links": {
+            "credentials": "https://bili.im/P0jd8io"
+        }
+    }, {
+        "name": "Demon Slayer (Kimetsu No Yaiba)",
+        "by": "Koyoharu Gotouge",
+        "image": "./certification/kimetsu.png",
+        "category":"Favoritr Anime",
+        "links": {
+            "credentials": "https://bili.im/zhOF1aq"
+        }
+    }, {
+        "name": "Kage No Jitsuryokusha Ni Naritakute",
+        "by": "Daisuke Aizawa",
+        "image": "./certification/cid.png",
+        "category":"Favorite Anime",
+        "links": {
+            "credentials": "https://bili.im/K7sSUhi"
+        }
+    }
+]
